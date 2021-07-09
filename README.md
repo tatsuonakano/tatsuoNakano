@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tatsuoNakano 24age in Japan
+- 👋 Hi, I’m @tatsuoNakano 24age    in Japan
 - 👀 I’m interested in ... Node.js Exprees MongoDB Firebase Electron ReactNitve Next.js Gatsby.js TensorFlow.js
 - 🌱 I’m currently learning ... Webpack React TypeScript
 - 💞️ I’m looking to collaborate on ...
