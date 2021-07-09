@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatsuoNakano
 - 👀 I’m interested in ... Node.js Exprees MongoDB Firebase Electron ReactNitve Next.js Gatsby.js
-- 🌱 I’m currently learning ... webpack React TypeScript
+- 🌱 I’m currently learning ... Webpack React TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
