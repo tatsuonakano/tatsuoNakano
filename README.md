@@ -23,11 +23,8 @@
 -  
 - 🌱 I’m currently learning ...  React TypeScript
 - 💞️ I’m looking to collaborate on ...　I'm looking for a company to work for now.　
-I would be very happy if you could call me
-- 📫 How to reach me ... Twitter @uS11NfyN5HrLhxr
-- 
+電話していただければ幸いです
 
-<!---
 tatsuoNakano/tatsuoNakano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
