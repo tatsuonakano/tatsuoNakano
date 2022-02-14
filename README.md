@@ -33,6 +33,8 @@
 -   etc = {
 -     Responsive coding,
 -     Build a computer by myself,
+-     基本的なSEO知識(インデックス/クローラー/YMYL/ドメインパワー/),
+-     サイト内部SEOの知識(meta/alt/title/h/構造化データ/AMP/PWA/高速化施策/E-A-T),
 - }
 - 🌱 I’m currently learning ...  TypeScript
 - 💞️ I’m looking to collaborate on ...　I'm looking for a company to work for now.　
