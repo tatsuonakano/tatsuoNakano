@@ -22,7 +22,7 @@
 -   Google= {
 -     analytics,
 -     tag manager,
-      Search Console   
+-     Search Console   
 -   }
 -  Responsive coding 　Adobe(Ps/Lrc/Ai/Pr/XD/Br)　　Build a computer by myself.
 -  
