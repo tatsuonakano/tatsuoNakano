@@ -5,13 +5,13 @@
 -     HTML5,
 -     pug
 -   }
--   styling= {
+-   styling = {
 -     SASS(scss),
 -     Bootstrap5,
 -     CSS modules,
 -     SCSS modules
 -   } 
--   Javascript= {
+-   Javascript = {
 -     React(JSX),
 -     Gatsby,
 -     Material-ui,
@@ -19,12 +19,12 @@
 -     Babel,
 -     npm
 -   }
--   Google= {
+-   Google = {
 -     analytics,
 -     tag manager,
 -     Search Console   
 -   }
--   Adobe= {
+-   Adobe = {
 -     Photoshop,
 -     Illustrator,
 -     XD,
