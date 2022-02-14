@@ -24,7 +24,14 @@
 -     tag manager,
 -     Search Console   
 -   }
--  Responsive coding 　Adobe(Ps/Lrc/Ai/Pr/XD/Br)　　Build a computer by myself.
+-   Adobe= {
+-     Photoshop,
+-     Illustrator,
+-     XD,
+-     premiere,
+- }
+-   Responsive coding 
+-  　　Build a computer by myself.
 -  
 - 🌱 I’m currently learning ...  TypeScript
 - 💞️ I’m looking to collaborate on ...　I'm looking for a company to work for now.　
