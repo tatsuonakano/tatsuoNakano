@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatsuoNakano 25age in Japan
 - 👀 I’m interested in ... Node.js Exprees MongoDB Firebase Electron ReactNitve Next.js TensorFlow.js webassembly Rust
 - 👋 I can do it ... 
--   Markup= {
+-   Markup = {
 -     HTML5,
 -     pug
 -   }
@@ -30,9 +30,10 @@
 -     XD,
 -     premiere,
 - }
+- {
 -   Responsive coding,
 -   Build a computer by myself,
--  
+-  }
 - 🌱 I’m currently learning ...  TypeScript
 - 💞️ I’m looking to collaborate on ...　I'm looking for a company to work for now.　
 電話していただければ幸いです
