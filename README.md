@@ -30,7 +30,7 @@
 -     XD,
 -     premiere,
 - }
-- {
+- etc ={
 -   Responsive coding,
 -   Build a computer by myself,
 -  }
