@@ -31,7 +31,7 @@
 -     premiere,
 - }
 -   Responsive coding 
--  　　Build a computer by myself.
+-   Build a computer by myself.
 -  
 - 🌱 I’m currently learning ...  TypeScript
 - 💞️ I’m looking to collaborate on ...　I'm looking for a company to work for now.　
